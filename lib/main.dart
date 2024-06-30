@@ -33,8 +33,8 @@ class MyCustomForm extends StatefulWidget {
 
 class MyCustomFormState extends State<MyCustomForm> {
   final _formKey = GlobalKey<FormState>();
-  final String userName = "lehuy";
-  final String pass = "123456";
+  final String userName = "huy";
+  final String pass = "123";
   int loginTimes = 0;
 
   @override
